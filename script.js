@@ -3266,32 +3266,32 @@ const driveLinks = {
 // Lista de cursos (20 asignaturas) con área y descripción
 const courses = [
     // Ciencias Sociales
-    { id: 1, name: "Economía", description: "Sistemas económicos, oferta y demanda, mercado y finanzas.", icon: "fas fa-chart-line", color: "#2d6a4f", area: "sociales" },
-    { id: 2, name: "Geografía", description: "Relieve, clima, recursos naturales y cartografía.", icon: "fas fa-globe-americas", color: "#40916c", area: "sociales" },
+    { id: 1, name: "Economía", description: "Sistemas económicos, oferta y demanda, mercado y finanzas.", icon: "fas fa-chart-line", color: "#2d6a4f", area: "sociales", availableGrades: ["3ro", "4to", "5to"]},
+    { id: 2, name: "Geografía", description: "Relieve, clima, recursos naturales y cartografía.", icon: "fas fa-globe-americas", color: "#40916c", area: "sociales", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"]},
     { id: 3, name: "Historia del Perú", description: "Culturas preincas, imperio inca, conquista y república.", icon: "fas fa-landmark", color: "#dda15e", area: "sociales" },
-    { id: 4, name: "Historia Universal", description: "Edades históricas, guerras mundiales y civilizaciones antiguas.", icon: "fas fa-monument", color: "#bc6c25", area: "sociales" },
-    { id: 5, name: "Psicología", description: "Procesos mentales, emociones, desarrollo humano y conducta.", icon: "fas fa-brain", color: "#ff006e", area: "sociales" },
-    { id: 6, name: "Valores", description: "Ética, moral, formación ciudadana y convivencia.", icon: "fas fa-heart", color: "#e63946", area: "sociales" },
+    { id: 4, name: "Historia Universal", description: "Edades históricas, guerras mundiales y civilizaciones antiguas.", icon: "fas fa-monument", color: "#bc6c25", area: "sociales", availableGrades: ["3ro", "4to", "5to"] },
+    { id: 5, name: "Psicología", description: "Procesos mentales, emociones, desarrollo humano y conducta.", icon: "fas fa-brain", color: "#ff006e", area: "sociales", availableGrades: ["3ro", "4to", "5to"]},
+    { id: 6, name: "Valores", description: "Ética, moral, formación ciudadana y convivencia.", icon: "fas fa-heart", color: "#e63946", area: "sociales", availableGrades: ["1ro", "2do"]},
     // Comunicación
-    { id: 7, name: "Fortaleciendo mi Fe", description: "Formación espiritual y valores cristianos.", icon: "fas fa-church", color: "#9c27b0", area: "comunicacion" },
-    { id: 8, name: "Lenguaje", description: "Gramática, comunicación, comprensión lectora y redacción.", icon: "fas fa-spell-check", color: "#3a86ff", area: "comunicacion" },
-    { id: 9, name: "Literatura", description: "Géneros literarios, autores, obras y análisis textual.", icon: "fas fa-book-open", color: "#8338ec", area: "comunicacion" },
-    { id: 10, name: "Razonamiento Verbal", description: "Sinónimos, antónimos, analogías verbales y comprensión.", icon: "fas fa-comment-alt", color: "#588157", area: "comunicacion" },
-    { id: 23, name: "Razonamiento Verbal 2", description: "Sinónimos, antónimos, analogías verbales y comprensión.", icon: "fas fa-comment-alt", color: "#588157", area: "comunicacion" },
-    { id: 11, name: "Teatro", description: "Expresión corporal, actuación, obras teatrales y creatividad.", icon: "fas fa-mask", color: "#d62828", area: "comunicacion" },
-    { id: 12, name: "Tutoría", description: "Orientación personal, desarrollo de habilidades socioemocionales.", icon: "fas fa-hand-holding-heart", color: "#f4a261", area: "comunicacion" },
+    { id: 7, name: "Fortaleciendo mi Fe", description: "Formación espiritual y valores cristianos.", icon: "fas fa-church", color: "#9c27b0", area: "comunicacion", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 8, name: "Lenguaje", description: "Gramática, comunicación, comprensión lectora y redacción.", icon: "fas fa-spell-check", color: "#3a86ff", area: "comunicacion", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 9, name: "Literatura", description: "Géneros literarios, autores, obras y análisis textual.", icon: "fas fa-book-open", color: "#8338ec", area: "comunicacion", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 10, name: "Razonamiento Verbal", description: "Sinónimos, antónimos, analogías verbales y comprensión.", icon: "fas fa-comment-alt", color: "#588157", area: "comunicacion" , availableGrades: ["1ro", "2do", "3ro", "4to", "5to"]},
+    { id: 23, name: "Razonamiento Verbal 2", description: "Sinónimos, antónimos, analogías verbales y comprensión.", icon: "fas fa-comment-alt", color: "#588157", area: "comunicacion" , availableGrades: ["1ro", "2do", "3ro", "4to", "5to"]},
+    { id: 11, name: "Teatro", description: "Expresión corporal, actuación, obras teatrales y creatividad.", icon: "fas fa-mask", color: "#d62828", area: "comunicacion" , availableGrades: ["1ro", "2do"]},
+    { id: 12, name: "Tutoría", description: "Orientación personal, desarrollo de habilidades socioemocionales.", icon: "fas fa-hand-holding-heart", color: "#f4a261", area: "comunicacion", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
     // Ciencia y Tecnología
-    { id: 13, name: "Biología", description: "Células, seres vivos, ecosistemas y anatomía humana.", icon: "fas fa-dna", color: "#2a9d8f", area: "ciencia" },
-    { id: 14, name: "Física", description: "Movimiento, fuerzas, energía, ondas y electricidad.", icon: "fas fa-atom", color: "#9d4edd", area: "ciencia" },
-    { id: 15, name: "Química", description: "Elementos, compuestos, reacciones y tabla periódica.", icon: "fas fa-flask", color: "#fb5607", area: "ciencia" },
+    { id: 13, name: "Biología", description: "Células, seres vivos, ecosistemas y anatomía humana.", icon: "fas fa-dna", color: "#2a9d8f", area: "ciencia", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 14, name: "Física", description: "Movimiento, fuerzas, energía, ondas y electricidad.", icon: "fas fa-atom", color: "#9d4edd", area: "ciencia", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 15, name: "Química", description: "Elementos, compuestos, reacciones y tabla periódica.", icon: "fas fa-flask", color: "#fb5607", area: "ciencia", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
     // Matemática
-    { id: 16, name: "Álgebra Sesión 1", description: "Expresiones algebraicas, ecuaciones, funciones y polinomios.", icon: "fas fa-square-root-alt", color: "#e63946", area: "matematica" },
-    { id: 22, name: "Álgebra Sesión 2", description: "Expresiones algebraicas, ecuaciones, funciones y polinomios.", icon: "fas fa-square-root-alt", color: "#e63946", area: "matematica" },
-    { id: 17, name: "Aritmética Sesión 1", description: "Números, operaciones básicas, fracciones, decimales y más.", icon: "fas fa-calculator", color: "#0a4d8c", area: "matematica" },
-    { id: 21, name: "Aritmética Sesión 2", description: "Triángulos, funciones trigonométricas, identidades y aplicaciones.", icon: "fas fa-shapes", color: "#1d3557", area: "matematica" },
-    { id: 18, name: "Geometría", description: "Figuras geométricas, medición, propiedades y transformaciones.", icon: "fas fa-draw-polygon", color: "#3a86ff", area: "matematica" },
-    { id: 19, name: "Razonamiento Matemático", description: "Problemas lógicos, secuencias, analogías y patrones.", icon: "fas fa-puzzle-piece", color: "#3d405b", area: "matematica" },
-    { id: 20, name: "Trigonometría", description: "Triángulos, funciones trigonométricas, identidades y aplicaciones.", icon: "fas fa-shapes", color: "#1d3557", area: "matematica" }
+    { id: 16, name: "Álgebra Sesión 1", description: "Expresiones algebraicas, ecuaciones, funciones y polinomios.", icon: "fas fa-square-root-alt", color: "#e63946", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 22, name: "Álgebra Sesión 2", description: "Expresiones algebraicas, ecuaciones, funciones y polinomios.", icon: "fas fa-square-root-alt", color: "#e63946", area: "matematica", availableGrades: ["2do"] },
+    { id: 17, name: "Aritmética Sesión 1", description: "Números, operaciones básicas, fracciones, decimales y más.", icon: "fas fa-calculator", color: "#0a4d8c", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 21, name: "Aritmética Sesión 2", description: "Triángulos, funciones trigonométricas, identidades y aplicaciones.", icon: "fas fa-shapes", color: "#1d3557", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 18, name: "Geometría", description: "Figuras geométricas, medición, propiedades y transformaciones.", icon: "fas fa-draw-polygon", color: "#3a86ff", area: "matematica", availableGrades: ["1ro"] },
+    { id: 19, name: "Razonamiento Matemático", description: "Problemas lógicos, secuencias, analogías y patrones.", icon: "fas fa-puzzle-piece", color: "#3d405b", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
+    { id: 20, name: "Trigonometría", description: "Triángulos, funciones trigonométricas, identidades y aplicaciones.", icon: "fas fa-shapes", color: "#1d3557", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] }
 ];
 
 // Colores por área (para el borde)
@@ -3457,15 +3457,40 @@ function renderCourses() {
         return;
     }
 
-    coursesCountSpan.textContent = courses.length;
+    console.log("🔍 Grado actual:", currentGrade);
+    console.log("🔍 Enlaces disponibles (IDs):", Object.keys(links));
 
-    courses.forEach(course => {
-        const link = links[course.id] || '#';
+    // Filtrar cursos:
+    // - Que tengan enlace (existan en links)
+    // - Que estén permitidos para el grado actual (si tienen availableGrades)
+    const availableCourses = courses.filter(course => {
+        const hasLink = links[course.id] !== undefined;
+        if (!hasLink) return false;
+
+        // Si el curso tiene availableGrades, verificar que incluya el grado actual
+        if (course.availableGrades) {
+            const isAllowed = course.availableGrades.includes(currentGrade);
+            if (!isAllowed) {
+                console.log(`❌ Curso "${course.name}" (ID ${course.id}) NO permitido para ${currentGrade} (solo para: ${course.availableGrades.join(', ')})`);
+            }
+            return isAllowed;
+        }
+
+        // Si no tiene availableGrades, asumimos que está permitido (pero avisamos)
+        console.log(`⚠️ Curso "${course.name}" (ID ${course.id}) no tiene availableGrades. Se muestra en todos los grados donde tenga enlace.`);
+        return true;
+    });
+
+    console.log("✅ Cursos mostrados:", availableCourses.map(c => c.name));
+
+    coursesCountSpan.textContent = availableCourses.length;
+
+    availableCourses.forEach(course => {
+        const link = links[course.id];
         const areaColor = areaColors[course.area];
         const areaName = areaNames[course.area];
         const card = document.createElement('div');
         card.className = 'course-card';
-        // Aplicar el color de borde izquierdo
         card.style.borderLeftColor = areaColor;
         card.innerHTML = `
             <div class="grade-tomo-section-tag">${currentGrade} / ${currentTomo} / ${currentSection}</div>
@@ -3483,6 +3508,10 @@ function renderCourses() {
         `;
         coursesContainer.appendChild(card);
     });
+
+    if (availableCourses.length === 0) {
+        coursesContainer.innerHTML = '<p style="text-align:center; grid-column:1/-1;">No hay materiales disponibles para esta selección.</p>';
+    }
 }
 
 // Inicialización
