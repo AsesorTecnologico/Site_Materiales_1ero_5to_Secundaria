@@ -712,7 +712,7 @@ const driveLinks = {
                 6: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_valores?usp=drive_link",    // Valores
                 7: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fortaleciendo_fe?usp=drive_link", // Fortaleciendo mi Fe
                 8: "https://docs.google.com/presentation/d/1AWTlwrljmNUyFp8Dbo1uDnbqsKsaIOll/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
-                9: "https://docs.google.com/presentation/d/1m3aCJ_COIm7ONSLMz936WfUsxxJGHyd2/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
+                9: "https://docs.google.com/presentation/d/1rCVsmwtMFhfQA1kq8sKFTHxqRWXIusX6/edit?slide=id.p1#slide=id.p1", // Literatura
                 10: "https://docs.google.com/presentation/d/10ghiUR_6PJ6nVWnYiZIZIwTXB3otAeNb/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
                 11: "https://docs.google.com/presentation/d/15QUl7v1E0anlukE2tWQM7XCHHIOCRXX5/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
                 12: "https://docs.google.com/presentation/d/1Nb__VGgvtGYO0XQw3HwC24gyDst7CWiS/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
