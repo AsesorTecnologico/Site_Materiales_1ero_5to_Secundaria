@@ -110,7 +110,7 @@ const driveLinks = {
                 15: "https://docs.google.com/presentation/d/1JQUe45H0FH4CoIj7uJRnBnW0JHwLMykh/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1bgChzhU3x_eshW3qjd7D83-ydpGmqeNN/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/1ayBBQvLkCUAhkTj8-pRw_0cq_A8wpt6v/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
-                21: "https://docs.google.com/presentation/d/12jEZoukOwkJmlPmRacdpY8c_n1nftuaq/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",
+                21: "",
                 18: "https://docs.google.com/presentation/d/1LNtv5mOvVDkAuv7ZHc7_dcBlDLEtz1mD/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1kA3tnAklYmakfogXzk9ckmyM6xIwZckh/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1O5WhS2Q5hVi5I3x4WjZe8bGWVeq8yYaP/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
@@ -743,7 +743,7 @@ const driveLinks = {
                 14: "https://docs.google.com/presentation/d/1fB53RVaIbCn_JwgFASz7CqcIug8yyLEP/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
                 15: "https://docs.google.com/presentation/d/1zPExPwPOdaIq41Efcx_h2jsT2OSwIeLu/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1w5e8tZfMLrbQUXyzOi-U7sf_VStNsUT5/edit?usp=sharing&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
-                22: "https://docs.google.com/presentation/d/1NvkEh6ftHA7Lbkxuz324E3xzLLLRPEac/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",
+                22: "",
                 17: "https://docs.google.com/presentation/d/1Arl8e0D9gIP_V6zpeKWVEJdKhoZzjJWj/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/14FQBxlY7EtBQTci8TSRvF1oDX11cutf1/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1a4vHHzdDBwyeF96qgQWdQfDMfzP5bMvl/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
@@ -3319,7 +3319,7 @@ const courses = [
     { id: 22, name: "Álgebra Sesión 2", description: "Expresiones algebraicas, ecuaciones, funciones y polinomios.", icon: "fas fa-square-root-alt", color: "#e63946", area: "matematica", availableGrades: ["2do"] },
     { id: 17, name: "Aritmética Sesión 1", description: "Números, operaciones básicas, fracciones, decimales y más.", icon: "fas fa-calculator", color: "#0a4d8c", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
     { id: 21, name: "Aritmética Sesión 2", description: "Triángulos, funciones trigonométricas, identidades y aplicaciones.", icon: "fas fa-shapes", color: "#1d3557", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
-    { id: 18, name: "Geometría", description: "Figuras geométricas, medición, propiedades y transformaciones.", icon: "fas fa-draw-polygon", color: "#3a86ff", area: "matematica", availableGrades: ["1ro"] },
+    { id: 18, name: "Geometría", description: "Figuras geométricas, medición, propiedades y transformaciones.", icon: "fas fa-draw-polygon", color: "#3a86ff", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
     { id: 19, name: "Razonamiento Matemático", description: "Problemas lógicos, secuencias, analogías y patrones.", icon: "fas fa-puzzle-piece", color: "#3d405b", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] },
     { id: 20, name: "Trigonometría", description: "Triángulos, funciones trigonométricas, identidades y aplicaciones.", icon: "fas fa-shapes", color: "#1d3557", area: "matematica", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"] }
 ];
