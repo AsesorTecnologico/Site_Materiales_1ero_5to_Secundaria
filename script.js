@@ -3298,7 +3298,7 @@ const courses = [
     // Ciencias Sociales
     { id: 1, name: "Economía", description: "Sistemas económicos, oferta y demanda, mercado y finanzas.", icon: "fas fa-chart-line", color: "#2d6a4f", area: "sociales", availableGrades: ["3ro", "4to", "5to"]},
     { id: 2, name: "Geografía", description: "Relieve, clima, recursos naturales y cartografía.", icon: "fas fa-globe-americas", color: "#40916c", area: "sociales", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"]},
-    { id: 3, name: "Historia del Perú", description: "Culturas preincas, imperio inca, conquista y república.", icon: "fas fa-landmark", color: "#dda15e", area: "sociales" },
+    { id: 3, name: "Historia del Perú", description: "Culturas preincas, imperio inca, conquista y república.", icon: "fas fa-landmark", color: "#dda15e", area: "sociales", availableGrades: ["1ro", "2do", "3ro", "4to", "5to"]},
     { id: 4, name: "Historia Universal", description: "Edades históricas, guerras mundiales y civilizaciones antiguas.", icon: "fas fa-monument", color: "#bc6c25", area: "sociales", availableGrades: ["3ro", "4to", "5to"] },
     { id: 5, name: "Psicología", description: "Procesos mentales, emociones, desarrollo humano y conducta.", icon: "fas fa-brain", color: "#ff006e", area: "sociales", availableGrades: ["3ro", "4to", "5to"]},
     { id: 6, name: "Valores", description: "Ética, moral, formación ciudadana y convivencia.", icon: "fas fa-heart", color: "#e63946", area: "sociales", availableGrades: ["1ro", "2do"]},
