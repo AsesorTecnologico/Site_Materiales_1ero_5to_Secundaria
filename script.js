@@ -1279,7 +1279,7 @@ const driveLinks = {
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
             }
-        }*/
+        }
     },
     // ========== 3RO SECUNDARIA ==========
     "3ro": {
