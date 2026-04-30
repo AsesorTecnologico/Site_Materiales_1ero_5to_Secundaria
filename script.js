@@ -158,8 +158,6 @@ const driveLinks = {
             "retro": {
                 2: "https://docs.google.com/presentation/d/1jHX2ta6d3qA6beG2vUFSIcGcR46E1dIa/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1YcKA2h02fPs5rfel1_0BQuLrk8bVdi6W/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
-                6: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_valores?usp=drive_link",    // Valores
-                7: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fortaleciendo_fe?usp=drive_link", // Fortaleciendo mi Fe
                 8: "https://docs.google.com/presentation/d/1JgnQEgyNcoUOCCZnSNSMrmB8kkUbLr-r/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
                 9: "https://docs.google.com/presentation/d/1tDG_bxbL4iIUusy8oXUZVG5X7hdgfaHA/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/1IezglIJgFPLnQprb45qVml-XbWnccvqh/edit?usp=drive_link&rtpof=true&sd=true", // Razonamiento Verbal
