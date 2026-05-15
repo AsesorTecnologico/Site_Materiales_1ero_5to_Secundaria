@@ -828,7 +828,7 @@ const driveLinks = {
                 18: "https://docs.google.com/presentation/d/1bhcnIf5hQwImHTqDDxUzfnvSkmnijOkn/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1dBnFeeOCyIcx8Ult1ImXvDk-djP5pZdi/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1zzd_fFq8WpRRw6acbC6ugW0AvEn1qOoQ/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
-            },
+            }/*,
             "cap8": {
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
                 6: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_valores?usp=drive_link",    // Valores
@@ -884,7 +884,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            }
+            }*/
         },
         "tomo-iv": {
             "cap10": {
@@ -1461,7 +1461,7 @@ const driveLinks = {
                 18: "https://docs.google.com/presentation/d/1LsNNqhRfcSNIuG1MJck308gjwqMgwx25/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/10VFFeOyx4O7pb_J03vP1pH1oWhNUMU1l/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1Tlq5aaL_sGfgCYolacZbMs3b6LrLUR9d/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
-            },
+            }/*,
             "cap8": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
@@ -1521,7 +1521,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            }
+            }*/
         },
         "tomo-iv": {
             "cap10": {
@@ -2119,7 +2119,7 @@ const driveLinks = {
                 18: "https://docs.google.com/presentation/d/1kn2DIdW0V8mRzB5TM_YJb_D765LR35la/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/14RRivB6-Q31H4M-xh4HX7HQCK39JiS35/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1zHXaB9d8nIyb20Q20olRG-Cb_PUlo7KS/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
-            },
+            }/*,
             "cap8": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
@@ -2179,7 +2179,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            }
+            }*/
         },
         "tomo-iv": {
             "cap10": {
@@ -2786,7 +2786,7 @@ const driveLinks = {
                 18: "https://docs.google.com/presentation/d/1mQ-O-UAehQo2Aim42z2ybE3I8HMgUnQ_/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1OACQSEL2AqtorfEzVuZGCKllzf-Ba60o/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1Y2DOFiNPmCQd-oh4gffL_0hnGDPof1qN/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
-            },
+            }/*,
             "cap8": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
@@ -2849,7 +2849,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            }
+            }*/
         },
         "tomo-iv": {
             "cap10": {
