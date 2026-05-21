@@ -202,7 +202,7 @@ const driveLinks = {
                 6: "https://docs.google.com/presentation/d/17Nqw_buKoInfghQLcynhHjbyIpam2xQV/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
                 7: "https://docs.google.com/presentation/d/1v7m8lhS47FYZpz9-Rt8hSnNJVvroMyQb/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
                 8: "https://docs.google.com/presentation/d/13gVV1ScDp8bN5DWlcv_-EaRFcaI_RkzE/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
-                9: https://docs.google.com/presentation/d/1ytTBgx860CNzAAsscCZHRRresCzsio5z/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
+                9: "https://docs.google.com/presentation/d/1ytTBgx860CNzAAsscCZHRRresCzsio5z/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/1y2bcOLMnVZNHI-JmUTpT1TlLGVTG3dD4/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
                 11: "https://docs.google.com/presentation/d/1wHTgiUpM6hEnl5NHCSZESHZdZrT9LKR5/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
                 12: "https://docs.google.com/presentation/d/1fw_e0K4-sffWrRw5PxIWqf8J07XU0neY/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
@@ -843,7 +843,7 @@ const driveLinks = {
                 14: "https://docs.google.com/presentation/d/1lUTno6igNIISEAergYk0QsfJJzjIRo3q/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
                 15: "https://docs.google.com/presentation/d/1D00ijS5FUCFjJUwXJzwgLxEJdqCkqpx1/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1R3OBpjNifktVNrXdoQKdy9U9y1CkNRIh/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra s1
-                22: "https://docs.google.com/presentation/d/1af0ylS2bcvxyO84W2xN7RNxOCCFQJtw-/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true";    // Álgebra s2
+                22: "https://docs.google.com/presentation/d/1af0ylS2bcvxyO84W2xN7RNxOCCFQJtw-/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Álgebra s2
                 17: "https://docs.google.com/presentation/d/1bsNbdRDaO0ETAr3elGK7ZrGX-XLODaC-/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/12dkKqM2HUh0FmxOy98_xBl1p1O4S7Em2/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1MNfeTGlwMNrxaY_foV_meBDnVIY5NxPx/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
