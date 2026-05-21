@@ -198,7 +198,7 @@ const driveLinks = {
             },
             "cap8": {
                 2: "https://docs.google.com/presentation/d/1zyydxLFc9FE1dBzU2gfrK_Jptrecst4_/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
-                3: "https://docs.google.com/presentation/d/1jwPFZ9BhzOZAC_MNm-9JsOigHkFhMU-N/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true"; // HP
+                3: "https://docs.google.com/presentation/d/1jwPFZ9BhzOZAC_MNm-9JsOigHkFhMU-N/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // HP
                 6: "https://docs.google.com/presentation/d/17Nqw_buKoInfghQLcynhHjbyIpam2xQV/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
                 7: "https://docs.google.com/presentation/d/1v7m8lhS47FYZpz9-Rt8hSnNJVvroMyQb/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
                 8: "https://docs.google.com/presentation/d/13gVV1ScDp8bN5DWlcv_-EaRFcaI_RkzE/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
