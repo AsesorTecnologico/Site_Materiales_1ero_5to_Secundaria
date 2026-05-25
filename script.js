@@ -2795,7 +2795,7 @@ const driveLinks = {
                 2: "https://docs.google.com/presentation/d/1whClZwiZzJ6mEjsdNVN-BrT97YKy0kwq/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/14M82FnebeuW-fR7Y1i7oZOay7_lmYaVu/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1ddgeUDBNEQJt23oXTxbLOxo3gP67w7il/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia Universal
-                5: "https://docs.google.com/presentation/d/1ddgeUDBNEQJt23oXTxbLOxo3gP67w7il/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Psicología
+                5: "https://docs.google.com/presentation/d/1ShI9kdNY1XezDz58ruls594ZkTw2MP1b/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Psicología
                 7: "https://docs.google.com/presentation/d/176rKlgU1eBQqS0mSm3QceaEV8W6S5ty2/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
                 8: "https://docs.google.com/presentation/d/1w6SJFoTAbQPyPZ6CaF8hYgRSWekJq9wW/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
                 9: "https://docs.google.com/presentation/d/1nW1FAshRwNq_li4-ETOEBlx6Bm93ZqOy/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
