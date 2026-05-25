@@ -833,6 +833,7 @@ const driveLinks = {
             "cap8": {
                 2: "https://docs.google.com/presentation/d/1yzpz_if1UGdnw_whPk4gSMdJx0cJPraO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1kW00BrYcV-fM_n2hKODjHXkLlAuKhpmG/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
+                6: "https://docs.google.com/presentation/d/1sgUQGDBBVplMemfWLz3ELjJuH1YLrgwL/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
                 7: "https://docs.google.com/presentation/d/19E5UApInQmNRQdKpkeJm_Q7Vxnrjv1Lr/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
                 8: "https://docs.google.com/presentation/d/1-mEb0tbBXRlnE7kUUpxX32BA8ySZg8un/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
                 9: "https://docs.google.com/presentation/d/1lR1JhfEuM0nBab4fJ_Vu6nPVa3hAoppf/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
