@@ -2832,7 +2832,7 @@ const driveLinks = {
                 17: "https://docs.google.com/presentation/d/1AXmWPaal0Xj3S6yxf3QE3fuTdHm34tc5/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1CKDYukvdJR38MKzlpMi1-f8KsLFjlHJF/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/11nLLj37wjSe3Urix7qaGTWVw7x-bYjxi/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
-                20: https://docs.google.com/presentation/d/18sXRIaFfAy2CkjpwQ6Bdi66sNVYo7nOk/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
+                20: "https://docs.google.com/presentation/d/18sXRIaFfAy2CkjpwQ6Bdi66sNVYo7nOk/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
             }/*,
             "retro": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
