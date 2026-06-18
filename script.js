@@ -292,7 +292,7 @@ const driveLinks = {
                 15: "https://docs.google.com/presentation/d/1nTdHv8C42-oJNYj1GBmdyGyH-Tudfe5Q/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1xSU3r-rSiqPrQ2jdhj3AqGX2gOqF5d_9/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/1TvpFF-O0nP-_t7izXrhdpGtGsl6d5Xe-/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética s1
-                21: "https://docs.google.com/presentation/d/1uwnAH1mG2MrqbA9pUUGVZEQXVAdGyXtB/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true"// Aritmética s2
+                21: "https://docs.google.com/presentation/d/1uwnAH1mG2MrqbA9pUUGVZEQXVAdGyXtB/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",// Aritmética s2
                 18: "https://docs.google.com/presentation/d/19b5frG5kqhyyvY19xkswtqE-ORepdodK/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1qwyCTAdTFP2BmGK5XmP2Y60AJdlZPeXb/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1BTsYbRLrTVgLPQFKEW4tLB1TgLdFAdSq/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
@@ -928,7 +928,7 @@ const driveLinks = {
                 14: "https://docs.google.com/presentation/d/1a65_BvwD7gHoISWc7BDmNiT-AnM22YPK/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
                 15: "https://docs.google.com/presentation/d/1oRnjHSU2sO_gEdRdl5rdiUP9MzVlUPPL/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "hhttps://docs.google.com/presentation/d/1SpIrM03PfnBahGjjBqnBOOWD9Oy4-jLO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra S1
-                22: "https://docs.google.com/presentation/d/1nLijFCEQ_5JecDzzO7rWkdAcASyTORVk/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Álgebra s2
+                22: "https://docs.google.com/presentation/d/1nLijFCEQ_5JecDzzO7rWkdAcASyTORVk/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Álgebra s2
                 17: "https://docs.google.com/presentation/d/17tJG1DsHrOGRSieXZkjeFrhLPjrNoxjE/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1BchScpFXM7C2Z4lj9vtPH-fevos6qwuq/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1G6ZiNGNrYWkbWiQ7Rt0E-b_imi4uPI2B/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
