@@ -278,7 +278,7 @@ const driveLinks = {
                 20: "https://docs.google.com/presentation/d/1Ln7JqKhFDMjkBJJ9lqQCC4LuBJIdgjx7/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
             },
             "cap11": {
-                2: "https://docs.google.com/presentation/d/16SvKPBo1wbWVDi0Nld_OeALY9whNptvW/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
+                2: "https://docs.google.com/presentation/d/1Rrcaa2IawzmhqEfX0Y_F4sPDwgd49mgB/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1ZgWL3dK0m_OM8TPgLT-ybcAK_s8TOTv3/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
                 6: "https://docs.google.com/presentation/d/1RKf5zjVTFWUXRKshVb_LT4dniSaFOtM8/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
                 7: "https://docs.google.com/presentation/d/1CTIA04ej1SNbXEx4B7dtV90ik8Emk6jp/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
