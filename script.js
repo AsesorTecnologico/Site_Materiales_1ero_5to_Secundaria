@@ -305,7 +305,7 @@ const driveLinks = {
                 8: "https://docs.google.com/presentation/d/1dbUxlRCCOmMTsgxE5Bj4bPIESY6Ckphx/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
                 9: "https://docs.google.com/presentation/d/1mZzzD_SifxMv-f4SRVGjHAa-_NaQBHJR/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/1aEKjoKuyRu6aXIoClSgxsrIJgE9jXbag/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
-                11: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_teatro?usp=drive_link",    // Teatro
+                11: "https://docs.google.com/presentation/d/14tgvCdhaJQKDYUGqj4SJZzVTk84WIX0Z/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
                 12: "https://docs.google.com/presentation/d/1Hi_zyEZ9xblaZaKjPr55PUJZRNun127g/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/10T5C4wVVKl_wzM_dicby1TxufE_c2umG/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/19eQzlR5eg0K0w_Newfdene_BicXHMpPQ/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
@@ -943,7 +943,7 @@ const driveLinks = {
                 8: "https://docs.google.com/presentation/d/1_gGEoQ1l3Eaf9uaY8s_Our8TwkQs6DP0/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
                 9: "https://docs.google.com/presentation/d/19AwYBLmJANneBX4F5_kt3Jvf9FuVbzAo/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/14sQLefql49caymFqmmv_SFaZPojnH1Gu/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
-                11: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_teatro?usp=drive_link",    // Teatro
+                11: "https://docs.google.com/presentation/d/1nXedZ8zBSgXYlJiEKaBKMoH66YPHzitN/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
                 12: "https://docs.google.com/presentation/d/1U3CJhcdnbWpF2b4q60ceLDz_1X518gtk/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1ca-p6EKRly4W_jYHKasLk0SCADHHEVET/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/157BywQbH8FBYDlb_VMdP_0WMn6zw5fCL/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
