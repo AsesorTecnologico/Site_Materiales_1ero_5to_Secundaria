@@ -2235,7 +2235,7 @@ const driveLinks = {
             },
             "cap12": {
                 1: "https://docs.google.com/presentation/d/18gzR-biWfVmakFz-6BDAZntsFJ_EZ27M/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Economía
-                2: "https://docs.google.com/presentation/d/1Ro_THUKB9T9jv1i9ClthHp36Q4gfPHYa/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
+                2: "https://docs.google.com/presentation/d/1cj0QHmg0h7V9kjmBzMk0cLK7OdkCGSYvM7_q9qlUH3Q/edit?usp=drive_link", // Geografía
                 3: "https://docs.google.com/presentation/d/1L24Py6hE-LujWUxl3B_xsxlntGz849Ck/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1GLG-64td3tbKv8KgZ_qdYHNkF_cRDLy5/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1T4TdfwKY4qBy_s0sWSLYdcD0idF5CoFu/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Psicología
