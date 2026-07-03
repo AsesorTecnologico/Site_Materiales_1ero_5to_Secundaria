@@ -2930,7 +2930,7 @@ const driveLinks = {
                 5: "https://docs.google.com/presentation/d/1UTiGNF2KNSYK_JGH_MIOBRCQPB_yVB_w/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Psicología
                 8: "https://docs.google.com/presentation/d/1hqMqnY0QNlU5wSg19g2ypv6Ac9yx1F8S/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
                 9: "https://docs.google.com/presentation/d/1bC72oP6B00hNoWlNt3p6kIzDgxvBndoD/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
-                10: "", // Razonamiento Verbal
+                10: "https://docs.google.com/presentation/d/12NnZ-5NTH2QXVZEREswAbg4QNVKTR19A/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
                 23: "https://docs.google.com/presentation/d/1KGs3PmdEGrRmszXRZwICbDrvVnXIBNEE/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal2
                 12: "https://docs.google.com/presentation/d/190k9d5PWsXWWURz9dG6Pbii3R1udT_oc/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1YJ2oIL2_m1yOT45Vd6wKBPWb8MVhaySK/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
