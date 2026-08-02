@@ -340,7 +340,7 @@ const driveLinks = {
             "cap13": {
                 2: "https://docs.google.com/presentation/d/1nmpLkJK9Oj6fn0HddjOLkwLPGLd2WlVA/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1b0kFZYrqhm7j5H_iVMCSwnm2isBxka-F/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
-                6: "https://docs.google.com/presentation/d/1GXcoCXy9fYuWaKhQOpECTHLq4i9u29jK/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
+                6: "https://docs.google.com/presentation/d/127pPE77QZC9cE6axmZf37RRQst59ai8L/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
                 7: "https://docs.google.com/presentation/d/170nrzGI1uwG6em0myI-lsOYF16tvsEX_/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
                 8: "https://docs.google.com/presentation/d/1xdT3kEvlqy8FEWHXwRxieODp2Oa3GDM-/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
                 9: "https://docs.google.com/presentation/d/1W2YDMByJjVYetEtGkv5E-yZpOZ5lE2ea/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
