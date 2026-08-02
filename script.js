@@ -349,10 +349,10 @@ const driveLinks = {
                 12: "https://docs.google.com/presentation/d/1bc9-uRwkhjeKYxY6nYBHHSTSNweBWY4B/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1W58vfEcqqwohrfNdmVmpQVxNx9PLW4pE/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/1WEaUyjy_SQA7RfG69gS3jtDSVeJDOALO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1kUYpgjenPjJJJHq-TfJxLa--ThMNIuSO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
+                15: "https://docs.google.com/presentation/d/1yQl44TUPHAkAzeNwcXPgBPENLMb9jOCJ/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/17sPBV2x1k6c5R2oEsb5jc1-Bmxz8o5aw/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/101S8LcglZqcTe8qloy9MP8PTUaHfPtu7/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética s1
-                22: "https://docs.google.com/presentation/d/16ClaW-3iWfg4It4M0xRDXfEbjoUdAlY9/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",//arit s2
+                21: "https://docs.google.com/presentation/d/16ClaW-3iWfg4It4M0xRDXfEbjoUdAlY9/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",//arit s2
                 18: "https://docs.google.com/presentation/d/1rpqU7SKFiGjf1R0jxsTNK4MV4zH8wbLQ/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1C-shVqO-Ix6-3Fd07ZlxWtwRhCk42KHD/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/19X8bHeLlo_N32GJhsx8eifktPGI1nwUN/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
