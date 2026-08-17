@@ -1033,7 +1033,7 @@ const driveLinks = {
                 16: "https://docs.google.com/presentation/d/1ve5aX9w_CEAQYe3xIJsoUIyTDsXUvyha/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
                 22: "https://docs.google.com/presentation/d/1aW8rPhYFyTbFGTTIjszfPNdeZcIvUbj2/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",
                 22: "https://docs.google.com/presentation/d/1ve5aX9w_CEAQYe3xIJsoUIyTDsXUvyha/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",
-                17: "https://docs.google.com/presentation/d/1aW8rPhYFyTbFGTTIjszfPNdeZcIvUbj2/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
+                17: "https://docs.google.com/presentation/d/1xsvYxXaUUt4uJheuT7yTh-V_4Xo2Tlrn/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1b-bWDlbDFYjH_op6CLm0nWKxYhbhOXFV/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
                 19: "https://docs.google.com/presentation/d/1uuyaNwjhi-aOp3fK8sgbsJ-wmFyoFfxr/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1m-2OWXcKqbAUDoSRywRnHUp6_ZKszn2E/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
