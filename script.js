@@ -425,7 +425,7 @@ const driveLinks = {
                 8: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_lenguaje?usp=drive_link",   // Lenguaje
                 9: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_literatura?usp=drive_link", // Literatura
                 10: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_raz_verbal?usp=drive_link", // Razonamiento Verbal
-                11: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_teatro?usp=drive_link",    // Teatro
+                11: "https://docs.google.com/presentation/d/1S06So2UaS6clYLcMibdMZ2BPmiSD_PHN/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
                 12: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_tutoria?usp=drive_link",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1nDJ3KOoiaAy2b3AKNMkcJBxkrjAQRwEw/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fisica?usp=drive_link",    // Física
@@ -1065,7 +1065,7 @@ const driveLinks = {
                 8: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_lenguaje?usp=drive_link",   // Lenguaje
                 9: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_literatura?usp=drive_link", // Literatura
                 10: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_raz_verbal?usp=drive_link", // Razonamiento Verbal
-                11: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_teatro?usp=drive_link",    // Teatro
+                11: "https://docs.google.com/presentation/d/149iJIWpadeVmUR1FPuHeUZkiovSMqUrG/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
                 12: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_tutoria?usp=drive_link",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1h7atmiFAOQUXgaanpTG18ciycPk70FUe/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fisica?usp=drive_link",    // Física
