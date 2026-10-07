@@ -498,24 +498,25 @@ const driveLinks = {
             },
         "tomo-vii": {
             "cap19": {
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
-                3: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_peru?usp=drive_link", // Historia del Perú
-                6: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_valores?usp=drive_link",    // Valores
-                7: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fortaleciendo_fe?usp=drive_link", // Fortaleciendo mi Fe
-                8: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_lenguaje?usp=drive_link",   // Lenguaje
-                9: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_literatura?usp=drive_link", // Literatura
-                10: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_raz_verbal?usp=drive_link", // Razonamiento Verbal
-                11: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_teatro?usp=drive_link",    // Teatro
-                12: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_tutoria?usp=drive_link",   // Tutoría
-                13: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_biologia?usp=drive_link",  // Biología
-                14: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fisica?usp=drive_link",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
-                16: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_algebra?usp=drive_link",   // Álgebra
-                17: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_aritmetica?usp=drive_link", // Aritmética
-                18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
-                19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
-                20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            },
+                2: "https://docs.google.com/presentation/d/1Xl2FFVkriAolni-xhn7KmYkY-0UJ5nvz/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
+                3: "https://docs.google.com/presentation/d/1Bxi-0wW8w4gGVbgMv7jHrPq2EPWmP9dc/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
+                6: "https://docs.google.com/presentation/d/1CybC9pMUesdQx5aKVimuSQePVT3zj6_a/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
+                7: "https://docs.google.com/presentation/d/1GV9vTLhqQ9PJx3LNLMougWT8kdW0RMGF/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
+                8: "https://docs.google.com/presentation/d/1fyDB1mAuDPChkv40IMH-8gl69_TE3nbX/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
+                9: "https://docs.google.com/presentation/d/1fSiKOW-cXComBkgqFKECFp38vDNBdEeP/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
+                10: "https://docs.google.com/presentation/d/1i9MsWO_YhJefauWyK0vzUwqDTd8L6OFi/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
+                11: "https://docs.google.com/presentation/d/1q0HoapcMA4Rja0YC9AmYwIjiMz4DqnSA/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
+                12: "https://docs.google.com/presentation/d/1QTiduweEliVxN0xAwlWAypHWkImPMJjX/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
+                13: "https://docs.google.com/presentation/d/1PKL8JMRlns6ZyTuvbrGaLftn4COSI6Zz/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
+                14: "https://docs.google.com/presentation/d/1dgyRAzdOrumjjyk09hCKjVuzQ8EiXjUI/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
+                15: "https://docs.google.com/presentation/d/1xa9999ZOJ3wtqUGnnugN7KcALJd0-gKd/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
+                16: "https://docs.google.com/presentation/d/1LFnLe4I_x8N3QqGYVsfEVgvk9wCvAo92/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
+                17: "https://docs.google.com/presentation/d/1ZB5Jdnsry_66W9NA86Td549SKhxkvb6w/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // AritméticaS1
+                22: "https://docs.google.com/presentation/d/1MT1kfqDdEfHjGloRO95qK3WHcCS7Ourg/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // AritméticaS2
+                18: "https://docs.google.com/presentation/d/1oWdk3PMt2U4Hv84dIFr6Eh1_PnqhG_p5/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
+                19: "https://docs.google.com/presentation/d/1OyWHfRRqyPxJIupxU6YaO4LEUgPiVN_H/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
+                20: "https://docs.google.com/presentation/d/1FryvQfQzvqwtTNNWfKKCKpyISyhazf3q/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
+            }/*,
             "cap20": {
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
                 3: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_peru?usp=drive_link", // Historia del Perú
@@ -572,7 +573,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-                }
+                }*/
             },
         "tomo-viii": {
             "cap22": {
@@ -1140,24 +1141,25 @@ const driveLinks = {
             },
         "tomo-vii": {
             "cap19": {
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
-                3: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_peru?usp=drive_link", // Historia del Perú
-                6: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_valores?usp=drive_link",    // Valores
-                7: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fortaleciendo_fe?usp=drive_link", // Fortaleciendo mi Fe
-                8: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_lenguaje?usp=drive_link",   // Lenguaje
-                9: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_literatura?usp=drive_link", // Literatura
-                10: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_raz_verbal?usp=drive_link", // Razonamiento Verbal
-                11: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_teatro?usp=drive_link",    // Teatro
-                12: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_tutoria?usp=drive_link",   // Tutoría
-                13: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_biologia?usp=drive_link",  // Biología
-                14: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fisica?usp=drive_link",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
-                16: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_algebra?usp=drive_link",   // Álgebra
-                17: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_aritmetica?usp=drive_link", // Aritmética
-                18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
-                19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
-                20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            },
+                2: "https://docs.google.com/presentation/d/1BkbCeXkNKYrzRIaf1nQ_CHbFTevSPRaa/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
+                3: "https://docs.google.com/presentation/d/1pMHIpN8oWAhUvuVYogx2WmmOWlVaUml4/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
+                6: "https://docs.google.com/presentation/d/1FvHYBiaLWQL3MsWEj-jOSjmkyh-m3KjD/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Valores
+                7: "https://docs.google.com/presentation/d/1ftWrA6Or7JVD9LdsT0IwYZ7A1-M0GGy7/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
+                8: "https://docs.google.com/presentation/d/1WXWCVPiZsLccwrooQNT6Mg5anDrc_w8p/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
+                9: "https://docs.google.com/presentation/d/1xqudvvnf6cJPLZG4A-7AzIvkdnkcw6_Y/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
+                10: "https://docs.google.com/presentation/d/1gFKIqcUoWWWkXBO2FK6cYNML_Lnx3hL8/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
+                11: "https://docs.google.com/presentation/d/10Yo-yydZKyEz3lNk2YSL1yP85GnoYdSC/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Teatro
+                12: "https://docs.google.com/presentation/d/1RY0Gc1I0QWDHXyp54W1AIgRxXNSwLHoL/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
+                13: "https://docs.google.com/presentation/d/1zWyzz7oTiJeCJcSUdIOHV0VtqdaI3jOp/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
+                14: "https://docs.google.com/presentation/d/1v-HTXqSwvr_KuIfDnSgvMQW83zr_pT0m/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
+                15: "https://docs.google.com/presentation/d/1O9qz_UTdD4huphQ0rwgkAwFlleHwyObY/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
+                16: "https://docs.google.com/presentation/d/1TT5GdgoBkiezdnLEfcHVy2jMCe9b9icZ/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebras1
+                22: "https://docs.google.com/presentation/d/1hR_ipvsM2BlMlR-eIaAZGU1I602chOPf/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",// Álgebras2
+                17: "https://docs.google.com/presentation/d/1tKj0WJlH06CSHKGsH8yxVAlOYaIDHgPO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
+                18: "https://docs.google.com/presentation/d/1pYho48XRepLv3bnbjV7yazSn-6Qkl7rP/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
+                19: "https://docs.google.com/presentation/d/1B8pPK4wdoeplSGKATjgT7RAyEI5wIVGh/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
+                20: "https://docs.google.com/presentation/d/11MT70IpKUqDDiOQKAHJ4u2iGnG6waXUm/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
+            }/*,
             "cap20": {
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
                 3: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_peru?usp=drive_link", // Historia del Perú
@@ -1214,7 +1216,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-                }
+                }*/
             },
         "tomo-viii": {
             "cap22": {
@@ -1786,25 +1788,25 @@ const driveLinks = {
             },
         "tomo-vii": {
             "cap19": {
-                1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
-                3: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_peru?usp=drive_link", // Historia del Perú
-                4: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_universal?usp=drive_link", // Historia Universal
-                5: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_psicologia?usp=drive_link", // Psicología
-                7: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fortaleciendo_fe?usp=drive_link", // Fortaleciendo mi Fe
-                8: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_lenguaje?usp=drive_link",   // Lenguaje
-                9: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_literatura?usp=drive_link", // Literatura
-                10: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_raz_verbal?usp=drive_link", // Razonamiento Verbal
-                12: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_tutoria?usp=drive_link",   // Tutoría
-                13: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_biologia?usp=drive_link",  // Biología
-                14: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fisica?usp=drive_link",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
-                16: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_algebra?usp=drive_link",   // Álgebra
-                17: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_aritmetica?usp=drive_link", // Aritmética
-                18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
-                19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
-                20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            },
+                1: "https://docs.google.com/presentation/d/1CgdCkZWhuRa5z-nas5pkufx_Hxd-Skef/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Economía
+                2: "https://docs.google.com/presentation/d/1eUItJuAsiQPnc_gntSpBK3P1Ecmy3EqT/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
+                3: "https://docs.google.com/presentation/d/1s_UOlc3kNj3_H-gVd4oqZ98InGOV_s7n/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
+                4: "https://docs.google.com/presentation/d/17QNuZ9y_y1w7TGZvq76NHGUqSiL7jHe5/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia Universal
+                5: "https://docs.google.com/presentation/d/1LBkKFVlLE8tke6zln1lSIRL3H7Btheo9/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Psicología
+                7: "https://docs.google.com/presentation/d/1MvApHxEoVoRgdwkRxw71ev73aw1JXZI4/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
+                8: "https://docs.google.com/presentation/d/1JPbnu39riwuDjAjnva_6ZxLHd-zfnmuW/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
+                9: "https://docs.google.com/presentation/d/15MEbFOyJ_5qkI5pVeFrRlyaGDzlp-2eT/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
+                10: "https://docs.google.com/presentation/d/1B7U80CcBAfOtIyOkZl5FokLeToS0qZP3/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
+                12: "https://docs.google.com/presentation/d/15LxamoSomTu4-IM3Jw4MJRBYzLx_CkUg/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
+                13: "https://docs.google.com/presentation/d/1xyqnmSkSP_JznXmEJXsyB7Wrak1FI5pm/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
+                14: "https://docs.google.com/presentation/d/1b665tkgLAGQCVRvx60R9YGVbCawLlnZO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
+                15: "https://docs.google.com/presentation/d/1KSLWARoKLve6WZDjkVe5jWQZPpOVL3CO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
+                16: "https://docs.google.com/presentation/d/1rbE73LKWGMemDGWHTDG3peLfBcda19r9/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
+                17: "https://docs.google.com/presentation/d/1WyYAHFkT_F50NtYsCFUTUdGVxmK1geTx/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
+                18: "https://docs.google.com/presentation/d/15CMeuiXCuzkizssTnUcBc83ptCA4udVv/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
+                19: "https://docs.google.com/presentation/d/1SPphGNjwxjcSjyv7Ck_TwxFNc7obr8Oz/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
+                20: "https://docs.google.com/presentation/d/1EDpJZR2yfKnpHMzIW6R2VfJJ8bZNLEBY/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
+            }/*,
             "cap20": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
@@ -1864,7 +1866,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-                }
+                }*/
             },
         "tomo-viii": {
             "cap22": {
@@ -2441,25 +2443,25 @@ const driveLinks = {
             },
         "tomo-vii": {
             "cap19": {
-                1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
-                3: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_peru?usp=drive_link", // Historia del Perú
-                4: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_universal?usp=drive_link", // Historia Universal
-                5: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_psicologia?usp=drive_link", // Psicología
-                7: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fortaleciendo_fe?usp=drive_link", // Fortaleciendo mi Fe
-                8: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_lenguaje?usp=drive_link",   // Lenguaje
-                9: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_literatura?usp=drive_link", // Literatura
-                10: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_raz_verbal?usp=drive_link", // Razonamiento Verbal
-                12: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_tutoria?usp=drive_link",   // Tutoría
-                13: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_biologia?usp=drive_link",  // Biología
-                14: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fisica?usp=drive_link",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
-                16: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_algebra?usp=drive_link",   // Álgebra
-                17: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_aritmetica?usp=drive_link", // Aritmética
-                18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
-                19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
-                20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            },
+                1: "https://docs.google.com/presentation/d/1dKPjWOfndKVPAHoArJHrw9uE0GTa3mlT/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Economía
+                2: "https://docs.google.com/presentation/d/19vJP5aRd9HcHlNvh7zyj3ZTZUXVhrhMN/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
+                3: "https://docs.google.com/presentation/d/1VAYi616LJicf9m_ED42QTXE8HylNLm3G/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
+                4: "https://docs.google.com/presentation/d/1K4mhThZ4Mcg6coyxMldT9ZSvNxOeHC_O/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia Universal
+                5: "https://docs.google.com/presentation/d/1Q7ZBVgp1YLI418ONlXDK7mSn-1OlCE6B/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Psicología
+                7: "https://docs.google.com/presentation/d/1gW4qbt_6LF_BqKxfX6s1PxDmjJ3-BlQP/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
+                8: "https://docs.google.com/presentation/d/1B9vz-OYIj83VeWr9cNnojp8NQf1nEGwG/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
+                9: "https://docs.google.com/presentation/d/1QaS0QlN5W4nZS_pQbIbAsljdxzaiIswY/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
+                10: "https://docs.google.com/presentation/d/16_yoYN90d0N_nIvvy1vFwfgBFQBi0jeC/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
+                12: "https://docs.google.com/presentation/d/1ePr2jsVdJElTKUHUYnQ9VY4QaTTc8gDU/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
+                13: "https://docs.google.com/presentation/d/1QF0uSKiA9biBjVP6KT2nwMVYp44Nncef/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
+                14: "https://docs.google.com/presentation/d/1_4v6xxO2xG6vXd98_-HOf9mOZMqSGs69/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
+                15: "https://docs.google.com/presentation/d/1ewKvVnMby9Uw7MMXo3zbV3eQgSlJZpRS/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
+                16: "https://docs.google.com/presentation/d/1BymVNXlk7glfGWy-tOHwZ90RhybY3Ii0/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
+                17: "https://docs.google.com/presentation/d/17cXlSULHebzNCSO7b43IO04bIaYu6T2E/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
+                18: "https://docs.google.com/presentation/d/1dQBldpDZ49FlWCf8gwYAyNtoKhLiWb5Q/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
+                19: "https://docs.google.com/presentation/d/1pWV0Wbkhc9GLPP8VUkNyIwMRhfS6otpH/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
+                20: "https://docs.google.com/presentation/d/1Rj2vgcFpfwrCBbiZlxC7znDcYJh5LKjB/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
+            }/*,
             "cap20": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
@@ -2519,7 +2521,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-                }
+                }*/
             },
         "tomo-viii": {
             "cap22": {
@@ -3120,26 +3122,26 @@ const driveLinks = {
             },
         "tomo-vii": {
             "cap19": {
-                1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
-                3: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_peru?usp=drive_link", // Historia del Perú
-                4: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_historia_universal?usp=drive_link", // Historia Universal
-                5: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_psicologia?usp=drive_link", // Psicología
-                7: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fortaleciendo_fe?usp=drive_link", // Fortaleciendo mi Fe
-                8: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_lenguaje?usp=drive_link",   // Lenguaje
-                9: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_literatura?usp=drive_link", // Literatura
-                10: "", // Razonamiento Verbal
-                23: "", // Razonamiento Verbal2
-                12: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_tutoria?usp=drive_link",   // Tutoría
-                13: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_biologia?usp=drive_link",  // Biología
-                14: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_fisica?usp=drive_link",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
-                16: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_algebra?usp=drive_link",   // Álgebra
-                17: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_aritmetica?usp=drive_link", // Aritmética
-                18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
-                19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
-                20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-            },
+                1: "https://docs.google.com/presentation/d/1-bBIpn-oxyqtytzALr-bmD1mu3SM62Wj/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Economía
+                2: "https://docs.google.com/presentation/d/1KKtDb4k4cugkfiFJYFw2tKQ7h_tJoo2T/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geografía
+                3: "https://docs.google.com/presentation/d/1l-MzBjcb2P9Inq2MB_CRBBiOlk_1Gz55/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia del Perú
+                4: "https://docs.google.com/presentation/d/1jGe3akwplp1kdBdNsL7bTN5Kqf91c9NA/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Historia Universal
+                5: "https://docs.google.com/presentation/d/1ZKkmyY5H_73MBH6qasP5pnBCxZ7Oyvpm/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Psicología
+                7: "https://docs.google.com/presentation/d/1lQ28vkAGdR-xo3ao-_7mIvOMw6PvLi4q/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Fortaleciendo mi Fe
+                8: "https://docs.google.com/presentation/d/1q686Fnb3UKK6CMXTcp4gVhH3YZcRt6tM/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Lenguaje
+                9: "https://docs.google.com/presentation/d/1rI5far3jMHebD0UfjQ7QtcRWinKyX1s5/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Literatura
+                10: "https://docs.google.com/presentation/d/1V5U-kAmJhGk_EHDaYilw3zvwh1QM--ZO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal
+                23: "https://docs.google.com/presentation/d/1NfFm714BMkrDUjbDBO62KhcXGODoqA5X/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Razonamiento Verbal2
+                12: "https://docs.google.com/presentation/d/14OCc7mi0CNUnoUDwr_WJRUzCuFCQP8ti/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
+                13: "https://docs.google.com/presentation/d/1a-KN59FmJmyVyWfMguSRu0O2eUgryS3L/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
+                14: "https://docs.google.com/presentation/d/1dFOftDJBKj9lP9X9uTpVoIBnrFEF8rtj/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
+                15: "https://docs.google.com/presentation/d/1K8At2xaPycfdgKSchTjs5g9qmqk01wUc/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
+                16: "https://docs.google.com/presentation/d/1mS7cF6Skpiq9DSBrdrZIdmb3S-JQO9K8/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
+                17: "https://docs.google.com/presentation/d/19CT9h5X6umsqcU_MbxEwyfNITMV60ZRk/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
+                18: "https://docs.google.com/presentation/d/19iLqCsFwsnTzloJZbzeEqo2Le_8qYgSF/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
+                19: "https://docs.google.com/presentation/d/1JT58NxFTaw6rl_ZMgFjvb8ioeQe2VHrh/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",        // Razonamiento Matemático
+                20: "https://docs.google.com/presentation/d/1pZXg_oLcxEOEaZgKdwJLhWpc8khNAl0I/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true" // Trigonometría
+            }/*,
             "cap20": {
                 1: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_economia?usp=drive_link",   // Economía
                 2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
@@ -3202,7 +3204,7 @@ const driveLinks = {
                 18: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geometria?usp=drive_link", // Geometría
                 19: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_rm?usp=drive_link",        // Razonamiento Matemático
                 20: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_trigonometria?usp=drive_link" // Trigonometría
-                }
+                }*/
             },
         "tomo-viii": {
             "cap22": {
@@ -3360,9 +3362,9 @@ const tomos = [
     { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
     { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" },
     { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" },
-    { id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" }
-/*    { id: "tomo-vii", name: "Tomo VII", icon: "fas fa-book" },
-    { id: "tomo-viii", name: "Tomo VIII", icon: "fas fa-book" }*/
+    { id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" },
+    { id: "tomo-vii", name: "Tomo VII", icon: "fas fa-book" }
+/*  { id: "tomo-viii", name: "Tomo VIII", icon: "fas fa-book" }*/
 ];
 
 // Generar las secciones (capítulos + RETRO) para cada tomo
