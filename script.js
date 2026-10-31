@@ -567,7 +567,7 @@ const driveLinks = {
                 12: "https://docs.google.com/presentation/d/1CTNvhMxjPmowppYPnxCfdmsOJD4sXMTt/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1-hfddPQKlHWbQf9x4qX9Vncnjc_BjTfR/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/1Tp8ZZ2IXs1aaZWonBL6w4HR-Ooql2Xo6/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
+                15: "https://docs.google.com/presentation/d/1ps7AoZVJ_l6CuZu7r_EZ9zlLg2KFn5rA/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1g9JEvwChZwjtY3Uu7aAUcq9rMg8Z0hIk/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra 
                 17: "https://docs.google.com/presentation/d/1LDpvlLEf8NAjKjhO3KhL4_a0KJyu0cHb/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética s1
                 21: "https://docs.google.com/presentation/d/11i-CfORKpYnOVbHKWF4Jg9tUeJ_TpkNF/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética s2
@@ -1211,7 +1211,7 @@ const driveLinks = {
                 12: "https://docs.google.com/presentation/d/1CFusMWyMuDGB8Nw2-Cr9iDsRzPUdOVtT/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1es4utmug2qaQxCbwHjvFysmgOdEs4Cqg/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/1WxSoXPTOIk79RGClzqS1OTQ6T2OYsGB1/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
+                15: "https://docs.google.com/presentation/d/1mUwCOfZYUry2eF8Uph1BZ0NxmgVZN5PL/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1chsrxA90GaNdgsabdpSgLJ3jtQvERnde/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra s1
                 22: "https://docs.google.com/presentation/d/1LDlgayHIO6i7LmgtPpcgcQzlLVvjNbf9/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Álgebra s2
                 17: "https://docs.google.com/presentation/d/1haP2ecbLZbijP847yopqubLp_ywDrBqV/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
@@ -1861,7 +1861,7 @@ const driveLinks = {
                 12: "https://docs.google.com/presentation/d/1hRMWf8ZGXyIRWTQq6jafkl_WcVsOU3kv/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1YDkQYrchgmQ9KuJTix7_MES7E1ThsB9_/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/1vuvvpD51yO7PXcRHwvb_Y8kdYfeHFXla/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
+                15: "https://docs.google.com/presentation/d/1HPdVaIvbtjfPnvsxXxSiRqFw-OLNPIJQ/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/16TqL2vpAg303WntVc_Zo0fuaB7yYj-0j/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/1UcfecvwEpg0Snj0sXFACVP50iuqpFDo0/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1cFlA0ZY2cNBIVJZUOu5r878mkcZbqBZi/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
@@ -2515,7 +2515,7 @@ const driveLinks = {
                 12: "https://docs.google.com/presentation/d/1L7cI9og851IpMjaljNF1bWymSEv1kmQ4/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1OK0OkmM5aLaFZP0ItJI9GG8MsxsIQGFe/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/1qvNes8F3022MkjVJrTLKS9nbk2vUjbzO/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
+                15: "https://docs.google.com/presentation/d/12__oyUFu5hkH6QLWUeP249p54_wh7wgp/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1-XgOMjwjjIW-x53XH628ULPV7JDrzSQz/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/1EWGiEGMZkEthPojKa1qNY1VXWlpEOBcU/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1aa7gcp9exjMzndUgRf1S5mpBpgXdysti/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
@@ -3197,7 +3197,7 @@ const driveLinks = {
                 12: "https://docs.google.com/presentation/d/1xHnPyWQaODqT_mIZRf5hvLb0L7T14EPU/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Tutoría
                 13: "https://docs.google.com/presentation/d/1Ywou6P9ZvX_V5VmItAA-n2c4SR3AtYlQ/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/1fsSHordAqFvdEgEL_TBqR7k2PNJF4hom/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",    // Física
-                15: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_quimica?usp=drive_link",   // Química
+                15: "https://docs.google.com/presentation/d/1yr1zjyoLDJKUo4ocD73BaS3jG6TltdHo/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/1fBnMpTKnEzKLaUB1lDmjO2dYrOBKcL6L/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/1qPJd47prb_mehrI_Ovgnro5FZvIj0EbB/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1hfcb2-cgem6l07kRUcMHUGj0rOG6Wos_/edit?usp=drive_link&ouid=108008430419016708844&rtpof=true&sd=true", // Geometría
